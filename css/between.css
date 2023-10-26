@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Anton&family=DM+Sans:opsz@9..40&family=Oswald&display=swap');
+.between{
+    /* background-color:black; */
+    background-image: url(../images/background2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:auto;
+    font-family: 'DM Sans', sans-serif;
+
+
+}
+
+
+
+
